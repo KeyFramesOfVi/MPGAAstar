@@ -10,6 +10,6 @@ Set up to run on Clang for Macs. If you want to set it up for Linux, go to makef
 C++FLAG = -g -std=c++0x -Wall
 
 To run:
-make all
+make all;
 ./mpgaa
 
